@@ -1,4 +1,4 @@
-# 🚀 TikTok Verified vs Unverified: Hypothesis Testing
+# 🚀 Hypothesis Testing; TikTok Verified vs Unverified: 
 
 **Statistical Proof of Engagement Bias on TikTok — Google Advanced Data Analytics**
 
